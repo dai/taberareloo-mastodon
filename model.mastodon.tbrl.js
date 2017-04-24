@@ -233,6 +233,7 @@
     visibility   : ""     // "public", "unlisted", "private", "direct", or "" for your default
   });
 */
+  register('social', 'https://mastodon.social');
   register('Octodon', 'https://octodon.social');
   register('MSTDN.JP', 'https://mstdn.jp');
   register('Pawoo', 'https://pawoo.net', {
