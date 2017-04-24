@@ -234,7 +234,7 @@
   });
 */
   register('social', 'https://mastodon.social');
-  register('Octodon', 'https://octodon.social');
+  register('enl-jp', 'https://mastodon.ingress-enl.jp');
   register('MSTDN.JP', 'https://mstdn.jp');
   register('Pawoo', 'https://pawoo.net', {
     sensitive : true
